@@ -1,5 +1,5 @@
 # Guide to Bitz Miner CLI on Eclipse🪂🪂
-
+# Ceradit FE
 ** Join Telegram https://t.me/testnetmaterial**
 ---
 
